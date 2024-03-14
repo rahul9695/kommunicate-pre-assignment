@@ -59,13 +59,13 @@ Visit the Google Drive Clone: https://google-drive-clone-pearl.vercel.app/
 cd your-google-drive-clone`
 
 - Install Dependencies:
-npm install
+`npm install`
 
 - Environment Variables:
-Create a .env file with necessary environment variables, including API keys and configurations for services like Stripe.
+Create a `.env` file with necessary environment variables, including API keys and configurations for services like Stripe.
 
 - Run the Project:
-npm run dev
+`npm run dev`
 The project will be accessible at http://localhost:5173.
 
 - Contributions and Issues
